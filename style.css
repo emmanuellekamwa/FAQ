@@ -1,5 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.block {
+    padding: 20px;
+    margin: 20px;
+}
+
+#head {
+    text-align: center;
+}
+
+#subtitle {
+    font-weight: 400;
+    padding-top: 10px;
 }
