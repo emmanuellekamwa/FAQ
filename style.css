@@ -6,26 +6,24 @@
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 500;
     font-style: normal;
-}
-
-.block {
-    padding: 20px;
-    margin: 20px;
 }
 
 #head {
     text-align: center;
 }
 
-.subtitle {
-    font-weight: 400;
-    padding-top: 10px;
+#heading {
+    font-size: 36px;
+    font-weight: 600;
 }
 
-#details {
-    font-size: medium;
-    list-style-position: inside;
-    margin: 10rem;
+.head2 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.body-text {
+    font-size: 16px;
+    font-weight: 400;
 }
