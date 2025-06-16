@@ -19,7 +19,13 @@
     text-align: center;
 }
 
-#subtitle {
+.subtitle {
     font-weight: 400;
     padding-top: 10px;
+}
+
+#details {
+    font-size: medium;
+    list-style-position: inside;
+    margin: 10rem;
 }
