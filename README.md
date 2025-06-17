@@ -22,7 +22,8 @@ This is a simple FAQ webpage that displays frequently asked questions and their 
 -   Twitter: [@AlixKamwa](https://twitter.com/AlixKamwa)
 -   Linkedin: [emmanuelle-kamwa-86145a1a4](https://www.linkedin.com/in/emmanuelle-kamwa-86145a1a4/)
 
-🤝 Contributing
+## Contributing
+
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the issues page.
