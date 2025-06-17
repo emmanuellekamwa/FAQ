@@ -9,6 +9,7 @@ body {
     font-style: normal;
     list-style-position: inside;
     background-color: #F8FAFC;
+    width: 100%;
 }
 
 .container {
@@ -17,8 +18,9 @@ body {
 
 #head {
     text-align: center;
-    margin: 40px auto;
     background-color: #ffffff;
+    padding: 2.5rem 2.5rem;
+    margin-top: -2.5rem;
 }
 
 #heading {
@@ -61,4 +63,10 @@ li {
 
 .faq2 {
     margin-top: 2.5rem;
+}
+
+@media screen and (max-width:768px) {
+    .content {
+        padding: 1.5rem;
+    }
 }
